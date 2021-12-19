@@ -11,7 +11,6 @@ import cucumber.api.java.Before;
 
 public class Setup {
 
-	
 	public static WebDriver driver;
 	static DriverManager driverManager;
 	@Before
